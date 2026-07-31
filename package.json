@@ -4,9 +4,9 @@
     "keywords": [
         "pebble-app"
     ],
-    "name": "chunky",
+    "name": "splash",
     "pebble": {
-        "displayName": "Chunky",
+        "displayName": "Splash",
         "enableMultiJS": true,
         "messageKeys": [],
         "projectType": "moddable",

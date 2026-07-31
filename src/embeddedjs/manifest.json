@@ -9,6 +9,12 @@
     "*-alpha": [
       {
         "source": "./assets/foo",
+        "size": 178,
+        "monochrome": true,
+        "characters": "0123456789"
+      },
+      {
+        "source": "./assets/foo",
         "size": 128,
         "monochrome": true,
         "characters": "0123456789"
