@@ -4,5 +4,15 @@
 	],
 	"modules": {
 		"*": "./main.js"
-	}
+	},
+  "resources": {
+    "*-alpha": [
+      {
+        "source": "./assets/foo",
+        "size": 128,
+        "monochrome": true,
+        "characters": "0123456789"
+      }
+    ]
+  }
 }
